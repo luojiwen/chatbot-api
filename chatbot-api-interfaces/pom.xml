@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>chatbot-api-interface</artifactId>
+    <artifactId>chatbot-api-interfaces</artifactId>
 
     <dependencies>
         <dependency>

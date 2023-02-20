@@ -1,9 +1,7 @@
-package cn.luoluo.chatbot.api;
+package cn.luoluo.chatbot.api.interfaces;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import java.util.Scanner;
 
 @SpringBootApplication
 public class ApiApplication {
