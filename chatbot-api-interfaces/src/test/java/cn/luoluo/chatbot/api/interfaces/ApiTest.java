@@ -1,4 +1,4 @@
-package cn.luoluo.chat.api.test;
+package cn.luoluo.chatbot.api.interfaces;
 
 import org.apache.http.HttpStatus;
 import org.apache.http.client.methods.CloseableHttpResponse;

@@ -1,4 +1,4 @@
-package cn.luoluo.chat.api.test;
+package cn.luoluo.chatbot.api.interfaces;
 
 
 import org.junit.Test;
@@ -21,6 +21,6 @@ public class ScannerApiTest {
         System.out.println("你想对服务器说什么 ");
         Scanner input = new Scanner(System.in);
         String next = input.nextLine();
-        
+
     }
 }

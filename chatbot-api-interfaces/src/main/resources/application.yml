@@ -1,2 +1,10 @@
 server:
   port: 8090
+
+
+logging:
+  level:
+    org:
+      springframework:
+        boot:
+          autoconfigure: ERROR         # 日志不打印条件评估报告
