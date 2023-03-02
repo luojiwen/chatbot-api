@@ -26,7 +26,7 @@ public class ChatGptOpenAi implements IChatGptOpenAi {
         CloseableHttpClient closeableHttpClient = HttpClientBuilder.create().build();
 
         String openAiUrl = "https://api.openai.com/v1/completions";
-        String secretKey = "Bearer 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";
+        String secretKey = "Bearer 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";
         String params = "{\"model\": \"text-davinci-003\", \"prompt\": \""+question+"\", \"temperature\": 0, \"max_tokens\": 1028}";
         StringEntity stringEntity = new StringEntity(params);
 
