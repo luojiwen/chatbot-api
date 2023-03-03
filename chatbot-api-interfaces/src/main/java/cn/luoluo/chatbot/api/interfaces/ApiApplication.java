@@ -16,5 +16,7 @@ public class ApiApplication {
 
     public static void main(String[] args) {
         ConfigurableApplicationContext run = SpringApplication.run(ApiApplication.class);
+
+
     }
 }
