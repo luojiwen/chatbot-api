@@ -11,7 +11,7 @@ import org.springframework.context.annotation.ComponentScans;
 import javax.annotation.Resource;
 
 @SpringBootApplication
-@ComponentScan({"cn.luoluo.api.domain"})
+@ComponentScan({"cn.luoluo.api"})
 public class ApiApplication {
 
     public static void main(String[] args) {
